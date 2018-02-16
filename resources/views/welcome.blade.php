@@ -46,7 +46,7 @@
             }
 
             .title {
-                font-size: 84px;
+                /* font-size: 84px; */
             }
 
             .links > a {
@@ -81,6 +81,7 @@
                 <div class="title m-b-md">
                    <h1> Arwen Studios   </h1>
                    <h2> Home of Rowan Evenstar</h2>
+                   <h3> Site to be created soon - 2018</h3>
 
                 </div>
 
